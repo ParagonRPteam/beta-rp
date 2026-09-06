@@ -11,7 +11,7 @@ body {
 	height: 99vh;
 	margin: 0;
 	padding: 0;
-	background: url(assets/bgcs1.png) no-repeat, linear-gradient(black, black);
+	background: url(assets/bgcs1.png) no-repeat, linear-gradient(90deg, rgb(0, 2, 5) 0.1%, black );
 	background-size: auto 100vh;
 	background-position: right;
 	display: flex;
@@ -24,6 +24,7 @@ body {
 	font-family: p052b;
 	color: white;
 	text-align: center;
+	cursor: default;
  }
 h1 {
 	font-size: 4em;
